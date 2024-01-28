@@ -16,7 +16,8 @@ mission.extension_add("MissionObject", {
 			_obj_posN      : n.getNode("attached-world-object"),
 			_coord         : nil,
 			#_mdl_coord     : nil,
-			_path          : "/Missions/Generic/Models/checkpoint-h50.xml",
+			#_path          : "/Missions/Generic/Models/checkpoint-h50.xml",
+            _path          : "/Missions/Generic/Models/marker.xml",
 			_model         : nil,
 			_offsets       : [],
 		};
